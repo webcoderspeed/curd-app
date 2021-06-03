@@ -78,6 +78,9 @@ box-shadow:  9px 9px 18px #cccccc,
   outline: 0;
 }
 
+input[type='text']{
+  width: 250px;
+}
 
 /* create new blog form */
 .create {
